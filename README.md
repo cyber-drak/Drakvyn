@@ -68,7 +68,7 @@ Oi, I’m **Drak**. I build stuff.
 ### `/home/drak/socials/`
 
 <p align="center">
-  <a href="https://github.com/cyber-drak"><img src="https://img.shields.io/badge/GitHub-cyber-drak-ff79c6?style=for-the-badge&logo=github&logoColor=white&labelColor=3c096c" alt="GitHub" /></a>
+  <a href="https://github.com/cyber-drak"><img src="https://img.shields.io/badge/GitHub-cyber--drak-ff79c6?style=for-the-badge&logo=github&logoColor=white&labelColor=3c096c" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/jeanmra"><img src="https://img.shields.io/badge/LinkedIn-Jean_Roa-00d4ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3c096c" alt="LinkedIn" /></a>
   <a href="https://jeanroa.dev"><img src="https://img.shields.io/badge/Web-jeanroa.dev-c9a0ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=3c096c" alt="Website" /></a>
 </p>
