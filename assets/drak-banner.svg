@@ -1,13 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 100" width="520" height="100" role="img" aria-label="DRAK">
-  <title>DRAK</title>
-  <rect width="520" height="100" fill="#121212"/>
-  <text
-    x="260"
-    y="69"
-    text-anchor="middle"
-    font-family="Arial Black, Helvetica Neue, Helvetica, sans-serif"
-    font-size="56"
-    font-weight="900"
-    fill="#e8dcc8"
-    letter-spacing="-6">DRAK</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 132" width="920" height="132" role="img" aria-label="DRAK — public workshop terminal">
+  <title>DRAK — public workshop terminal</title>
+  <defs>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#ffffff" opacity="0.03"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="920" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#e8e8e8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#e8e8e8" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#e8e8e8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- base -->
+  <rect width="920" height="132" fill="#080808"/>
+  <rect width="920" height="132" fill="url(#scan)"/>
+
+  <!-- cut-corner panel -->
+  <path d="M16 8 H904 L912 16 V116 L904 124 H16 L8 116 V16 Z" fill="#0c0c0c" stroke="#2a2a2a" stroke-width="1"/>
+  <path d="M8 16 L16 8 M904 8 L912 16 M912 116 L904 124 M8 116 L16 124" fill="none" stroke="#e8e8e8" stroke-width="1.5"/>
+
+  <!-- accent slash -->
+  <line x1="620" y1="18" x2="700" y2="114" stroke="#e8e8e8" stroke-width="1" opacity="0.18"/>
+  <line x1="628" y1="18" x2="708" y2="114" stroke="#e8e8e8" stroke-width="1" opacity="0.06"/>
+
+  <!-- top metadata rail -->
+  <text x="28" y="28" font-family="monospace" font-size="9" fill="#666666" letter-spacing="2">PUBLIC WORKSHOP // TERMINAL v0.9</text>
+  <text x="892" y="28" text-anchor="end" font-family="monospace" font-size="9" fill="#666666" letter-spacing="1">UID:DRAKVYN</text>
+  <line x1="28" y1="34" x2="892" y2="34" stroke="#222222" stroke-width="1"/>
+  <line x1="28" y1="34" x2="180" y2="34" stroke="#e8e8e8" stroke-width="1" opacity="0.35"/>
+
+  <!-- identity block -->
+  <text x="28" y="68" font-family="Arial Black, Impact, sans-serif" font-size="34" font-weight="900" fill="#f0f0f0" letter-spacing="-1">JEAN ROA</text>
+  <text x="28" y="92" font-family="monospace" font-size="11" fill="#888888" letter-spacing="3">SOFTWARE DEVELOPER</text>
+
+  <!-- status HUD -->
+  <rect x="640" y="48" width="252" height="64" fill="#0a0a0a" stroke="#333333" stroke-width="1"/>
+  <path d="M640 48 H892 M640 112 H892" stroke="#e8e8e8" stroke-width="1" opacity="0.25"/>
+  <text x="652" y="66" font-family="monospace" font-size="9" fill="#555555" letter-spacing="1">[ SYS READOUT ]</text>
+
+  <circle cx="662" cy="82" r="3" fill="#e8e8e8"/>
+  <text x="672" y="86" font-family="monospace" font-size="11" fill="#e8e8e8">WORKSHOP</text>
+  <text x="760" y="86" font-family="monospace" font-size="11" fill="#666666">STATUS:</text>
+  <text x="820" y="86" font-family="monospace" font-size="11" fill="#f0f0f0">ONLINE</text>
+
+  <text x="652" y="106" font-family="monospace" font-size="10" fill="#666666">LOC</text>
+  <text x="682" y="106" font-family="monospace" font-size="10" fill="#aaaaaa">CHILE</text>
+  <text x="760" y="106" font-family="monospace" font-size="10" fill="#666666">NODE</text>
+  <text x="800" y="106" font-family="monospace" font-size="10" fill="#aaaaaa">GITHUB</text>
+
+  <!-- bottom glitch bar -->
+  <rect x="28" y="118" width="864" height="2" fill="url(#fade)"/>
+  <text x="28" y="116" font-family="monospace" font-size="8" fill="#444444" letter-spacing="1">BUILD // BREAK // LEARN // FIX // REPEAT</text>
 </svg>

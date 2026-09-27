@@ -31,9 +31,9 @@ drak@github:~$ whoami → Jean Marco Roa Ascanio · software engineer · Chile
 
 ```text
 user.............. Jean Roa (Drak)
-role.............. Software engineer — systems end to end
+role.............. Software engineer - systems end to end
 location.......... Chile
-contact........... contact@jeanroa.dev
+contact........... roajeanmarco@gmail.com
 ```
 
 ### `drak > languages --human`
@@ -62,10 +62,6 @@ Oi, I’m **Drak**. I build stuff.
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white&labelColor=240046" alt="Fedora" />
 </p>
 
-### `drak@host: ~/projects` featured
-
-**OSWriter** — Cross-platform CLI for bootable USB drives (safe device detection, auto-update).  
-→ [github.com/drakvyn/oswriter](https://github.com/drakvyn/oswriter)
 
 <img align="right" width="120" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="pixel" />
 
@@ -81,20 +77,15 @@ Oi, I’m **Drak**. I build stuff.
 
 <p align="center">
   <a href="https://github.com/drakvyn">
-    <img src="https://github-profile-trophy.vercel.app/?username=drakvyn&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=cyber-drak&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/drakvyn">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=drakvyn&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0d0221&border_color=ff00ea&title_color=ff00ea&icon_color=00f5ff" alt="GitHub stats" />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=drakvyn&langs_count=10&layout=compact&theme=synthwave&hide_border=true&bg_color=0d0221&border_color=ff00ea&title_color=ff00ea" alt="Top languages" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cyber-drak&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0d0221&border_color=ff00ea&title_color=ff00ea&icon_color=00f5ff" alt="GitHub stats" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cyber-drak&langs_count=10&layout=compact&theme=synthwave&hide_border=true&bg_color=0d0221&border_color=ff00ea&title_color=ff00ea" alt="Top languages" />
     <img height="180em" src="https://streak-stats.demolab.com?user=drakvyn&hide_total_contributions=true&exclude_days=Sun%2CSat&theme=synthwave&hide_border=true&border_radius=7&card_width=467" alt="Streak" />
   </a>
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" alt="vaporwave outro" width="55%" />
-  <br/>
-  <sub>y2k · neon on void · made with 💜</sub>
-</div>
