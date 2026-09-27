@@ -68,7 +68,7 @@ Oi, I’m **Drak**. I build stuff.
 ### `/home/drak/socials/`
 
 <p align="center">
-  <a href="https://github.com/cyber-drak"><img src="https://img.shields.io/badge/GitHub-drakvyn-ff79c6?style=for-the-badge&logo=github&logoColor=white&labelColor=3c096c" alt="GitHub" /></a>
+  <a href="https://github.com/cyber-drak"><img src="https://img.shields.io/badge/GitHub-cyber-drak-ff79c6?style=for-the-badge&logo=github&logoColor=white&labelColor=3c096c" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/jeanmra"><img src="https://img.shields.io/badge/LinkedIn-Jean_Roa-00d4ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3c096c" alt="LinkedIn" /></a>
   <a href="https://jeanroa.dev"><img src="https://img.shields.io/badge/Web-jeanroa.dev-c9a0ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=3c096c" alt="Website" /></a>
 </p>
@@ -83,8 +83,6 @@ Oi, I’m **Drak**. I build stuff.
 
 <p align="center">
   <a href="https://github.com/cyber-drak">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cyber-drak&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0d0221&border_color=ff00ea&title_color=ff00ea&icon_color=00f5ff" alt="GitHub stats" />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cyber-drak&langs_count=10&layout=compact&theme=synthwave&hide_border=true&bg_color=0d0221&border_color=ff00ea&title_color=ff00ea" alt="Top languages" />
     <img height="180em" src="https://streak-stats.demolab.com?user=cyber-drak&hide_total_contributions=true&exclude_days=Sun%2CSat&theme=synthwave&hide_border=true&border_radius=7&card_width=467" alt="Streak" />
   </a>
 </p>
