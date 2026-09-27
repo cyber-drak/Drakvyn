@@ -19,7 +19,7 @@ drak@github:~$ whoami → Jean Marco Roa Ascanio · software engineer · Chile
 
 [![site](https://img.shields.io/badge/◆_WEBSITE-jeanroa.dev-ff1493?style=for-the-badge&labelColor=0d0221)](https://jeanroa.dev)
 [![linkedin](https://img.shields.io/badge/◆_LINKEDIN-Jean_Roa-00ffff?style=for-the-badge&labelColor=0d0221)](https://www.linkedin.com/in/jeanmra)
-[![github](https://img.shields.io/badge/◆_GITHUB-drakvyn-c9a0ff?style=for-the-badge&logo=github&labelColor=0d0221)](https://github.com/drakvyn)
+[![github](https://img.shields.io/badge/◆_GITHUB-cyber--drak-c9a0ff?style=for-the-badge&logo=github&labelColor=0d0221)](https://github.com/cyber-drak)
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHg3cG1rYTA4Zno5ejh1czNzdmtmc3VmaWF3NzVrN3p6MDhudm9vbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EC1gl2A5oplKMAorkT/giphy.gif" alt="divider" width="85%" />
 
