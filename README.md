@@ -31,7 +31,7 @@ drak@github:~$ whoami → Jean Marco Roa Ascanio · software engineer · Chile
 
 ```text
 user.............. Jean Roa (Drak)
-role.............. Software engineer - systems end to end
+role.............. Software engineer
 location.......... Chile
 contact........... roajeanmarco@gmail.com
 ```
